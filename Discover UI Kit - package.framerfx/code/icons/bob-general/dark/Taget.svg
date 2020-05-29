@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="24px" height="24px" viewBox="0 0 24 24" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <!-- Generator: Sketch 59.1 (86144) - https://sketch.com -->
+    <title>dark / Taget</title>
+    <desc>Created with Sketch.</desc>
+    <defs>
+        <path d="M11,0 L11,2.065 C14.6237522,2.5224782 17.4775218,5.37624783 17.935,9 L17.935,9 L20,9 L20,11 L17.935,11 C17.4775218,14.6237522 14.6237522,17.4775218 11,17.935 L11,17.935 L11,20 L9,20 L9,17.935 C5.37624783,17.4775218 2.5224782,14.6237522 2.065,11 L2.065,11 L0,11 L0,9 L2.065,9 C2.5224782,5.37624783 5.37624783,2.5224782 9,2.065 L9,2.065 L9,0 L11,0 Z M10,4 C6.6862915,4 4,6.6862915 4,10 C4,13.3137085 6.6862915,16 10,16 C11.5912989,16 13.1174224,15.367859 14.2426407,14.2426407 C15.367859,13.1174224 16,11.5912989 16,10 C16,6.6862915 13.3137085,4 10,4 Z M10,9 C10.5522847,9 11,9.44771525 11,10 C11,10.5522847 10.5522847,11 10,11 C9.44771525,11 9,10.5522847 9,10 C9,9.44771525 9.44771525,9 10,9 Z" id="path-1"></path>
+    </defs>
+    <g id="dark-/-Taget" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <g id="Taget" transform="translate(2.000000, 2.000000)">
+            <rect id="Rectangle-path" fill="#FFFFFF" fill-rule="nonzero" opacity="0" x="0" y="0" width="20" height="20"></rect>
+            <mask id="mask-2" fill="white">
+                <use xlink:href="#path-1"></use>
+            </mask>
+            <use id="Mask" fill="#222222" xlink:href="#path-1"></use>
+        </g>
+    </g>
+</svg>

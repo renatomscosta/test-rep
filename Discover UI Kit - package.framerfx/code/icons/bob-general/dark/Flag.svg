@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="24px" height="24px" viewBox="0 0 24 24" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <!-- Generator: Sketch 59.1 (86144) - https://sketch.com -->
+    <title>dark / Flag</title>
+    <desc>Created with Sketch.</desc>
+    <defs>
+        <path d="M14,9.66666667 L20,3.33333333 L0,3.33333333 L0,20 L2,20 L2,16.0216667 L20,16 L14,9.66666667 Z M15.3533333,5.33333333 L11.245,9.66666667 L15.355,14 L2.10333333,14.015 L2.02,5.33333333 L15.3533333,5.33333333 Z M1,3.02868841e-13 C1.55228475,3.02868841e-13 2,0.44771525 2,1 C2,1.55228475 1.55228475,2 1,2 C0.44771525,2 0,1.55228475 0,1 C0,0.44771525 0.44771525,3.02868841e-13 1,3.02868841e-13 Z" id="path-1"></path>
+    </defs>
+    <g id="dark-/-Flag" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <g id="Flag" transform="translate(2.000000, 2.000000)">
+            <rect id="Rectangle-path" fill="#FFFFFF" fill-rule="nonzero" opacity="0" x="0" y="0" width="20" height="20"></rect>
+            <mask id="mask-2" fill="white">
+                <use xlink:href="#path-1"></use>
+            </mask>
+            <use id="Mask" fill="#222222" xlink:href="#path-1"></use>
+        </g>
+    </g>
+</svg>

@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="24px" height="24px" viewBox="0 0 24 24" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <!-- Generator: Sketch 59.1 (86144) - https://sketch.com -->
+    <title>light / PlusOutline</title>
+    <desc>Created with Sketch.</desc>
+    <defs>
+        <path d="M10,0 C12.6521649,0 15.195704,1.0535684 17.0710678,2.92893219 C18.9464316,4.80429597 20,7.3478351 20,10 C20,15.5228475 15.5228475,20 10,20 C4.4771525,20 0,15.5228475 0,10 C0,4.4771525 4.4771525,0 10,0 Z M10,2 C5.581722,2 2,5.581722 2,10 C2,14.418278 5.581722,18 10,18 C14.416374,17.9954068 17.9954068,14.416374 18,10 C18,5.581722 14.418278,2 10,2 Z M11,5 L11,9 L15,9 L15,11 L11,11 L11,15 L9,15 L9,11 L5,11 L5,9 L9,9 L9,5 L11,5 Z" id="path-1"></path>
+    </defs>
+    <g id="light-/-PlusOutline" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <g id="PlusOutline" transform="translate(2.000000, 2.000000)">
+            <rect id="Rectangle-path" fill="#FFFFFF" fill-rule="nonzero" opacity="0" x="0" y="0" width="20" height="20"></rect>
+            <mask id="mask-2" fill="white">
+                <use xlink:href="#path-1"></use>
+            </mask>
+            <use id="Mask" fill="#FFFFFF" xlink:href="#path-1"></use>
+        </g>
+    </g>
+</svg>

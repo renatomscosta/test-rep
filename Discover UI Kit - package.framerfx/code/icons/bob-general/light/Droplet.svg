@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="24px" height="24px" viewBox="0 0 24 24" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <!-- Generator: Sketch 59.1 (86144) - https://sketch.com -->
+    <title>light / Droplet</title>
+    <desc>Created with Sketch.</desc>
+    <defs>
+        <path d="M9.95118008,0 L15.8089981,5.85781803 L16.0198065,6.07644952 C18.219439,8.44261624 18.8482456,11.8841229 17.6048613,14.8859518 C16.3226212,17.9815879 13.301867,20 9.95118008,20 C6.6004932,20 3.579739,17.9815879 2.29749889,14.8859518 C1.01525878,11.7903157 1.72404989,8.2270927 4.09336205,5.85781803 L4.09336205,5.85781803 L9.95118008,0 Z M9.95118008,2.83308411 L5.50823758,7.26936053 L5.4932389,7.28435921 C3.04811698,9.74419761 3.0580541,13.7198451 5.51544211,16.1674297 C7.97283013,18.6150143 11.9484856,18.6090593 14.3985304,16.1541242 C16.8485752,13.699189 16.8466024,9.72352959 14.3941226,7.27102705 L14.3941226,7.27102705 L14.3724578,7.24936229 L9.95118008,2.83308411 Z M7,13 C7.55228475,13 8,13.4477153 8,14 C8,14.5522847 7.55228475,15 7,15 C6.44771525,15 6,14.5522847 6,14 C6,13.4477153 6.44771525,13 7,13 Z" id="path-1"></path>
+    </defs>
+    <g id="light-/-Droplet" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <g id="Droplet" transform="translate(2.000000, 2.000000)">
+            <rect id="Rectangle-path" fill="#FFFFFF" fill-rule="nonzero" opacity="0" x="0" y="0" width="20" height="20"></rect>
+            <mask id="mask-2" fill="white">
+                <use xlink:href="#path-1"></use>
+            </mask>
+            <use id="Mask" fill="#FFFFFF" xlink:href="#path-1"></use>
+        </g>
+    </g>
+</svg>

@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="24px" height="24px" viewBox="0 0 24 24" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <!-- Generator: Sketch 59.1 (86144) - https://sketch.com -->
+    <title>dark / CheveronDown</title>
+    <desc>Created with Sketch.</desc>
+    <defs>
+        <polygon id="path-1" points="5.70666667 1 4.29333333 2.41333333 12.8783333 11 4.29333333 19.5866667 5.70666667 21 15.7066667 11"></polygon>
+    </defs>
+    <g id="dark-/-CheveronDown" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <g id="CheveronDown" transform="translate(2.000000, 2.000000)">
+            <rect id="Rectangle-path" fill="#FFFFFF" fill-rule="nonzero" opacity="0" x="0" y="0" width="20" height="20"></rect>
+            <mask id="mask-2" fill="white">
+                <use xlink:href="#path-1"></use>
+            </mask>
+            <use id="Mask" fill="#222222" transform="translate(10.000000, 11.000000) rotate(-270.000000) translate(-10.000000, -11.000000) " xlink:href="#path-1"></use>
+        </g>
+    </g>
+</svg>
