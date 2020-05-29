@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="24px" height="24px" viewBox="0 0 24 24" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <!-- Generator: Sketch 59.1 (86144) - https://sketch.com -->
+    <title>dark / Customer</title>
+    <desc>Created with Sketch.</desc>
+    <defs>
+        <path d="M10,8 C12.209139,8 14,6.209139 14,4 C14,1.790861 12.209139,0 10,0 C7.790861,0 6,1.790861 6,4 C6,6.209139 7.790861,8 10,8 Z M18,2 L18,4.53833333 C19.5653125,5.44460469 20.3276893,7.28852564 19.8594111,9.03559359 C19.3911329,10.7826615 17.8087364,11.9980973 16,12 L16,12 L15,12 L15,20 L13,20 L13,12 L7,12 L7,20 L5,20 C2.23857625,20 0,17.7614237 0,15 C0,12.2385763 2.23857625,10 5,10 L5,10 L16,10 C17.1045695,10 18,9.1045695 18,8 C18,6.8954305 17.1045695,6 16,6 L16,6 L16,2 L18,2 Z M5,12 C3.34314575,12 2,13.3431458 2,15 C2,16.6568542 3.34314575,18 5,18 L5,18 Z M10,14 C10.5522847,14 11,14.4477153 11,15 C11,15.5522847 10.5522847,16 10,16 C9.44771525,16 9,15.5522847 9,15 C9,14.4477153 9.44771525,14 10,14 Z M10,2 C11.1045695,2 12,2.8954305 12,4 C12,5.1045695 11.1045695,6 10,6 C8.8954305,6 8,5.1045695 8,4 C8,2.8954305 8.8954305,2 10,2 Z" id="path-1"></path>
+    </defs>
+    <g id="dark-/-Customer" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <g id="Customer" transform="translate(2.000000, 2.000000)">
+            <rect id="Rectangle-path" fill="#FFFFFF" fill-rule="nonzero" opacity="0" x="0" y="0" width="20" height="20"></rect>
+            <mask id="mask-2" fill="white">
+                <use xlink:href="#path-1"></use>
+            </mask>
+            <use id="Mask" fill="#222222" xlink:href="#path-1"></use>
+        </g>
+    </g>
+</svg>

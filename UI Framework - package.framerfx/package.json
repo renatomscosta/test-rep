@@ -1,0 +1,29 @@
+{
+	"main": "dist/index.js",
+	"license": "MIT",
+	"devDependencies": {
+		"@types/react": "^16.8"
+	},
+	"peerDependencies": {
+		"framer": "^1.0",
+		"react": "^16.8"
+	},
+	"framer": {
+		"id": "3ebb68f6-9817-43f9-9c3f-cbbb57b7d294",
+		"displayName": "UI Framework"
+	},
+	"author": "Design Team",
+	"dependencies": {
+		"@framer/farfetch.bob-general-icons": "^1.28.0",
+		"@framer/farfetch.ff-icons": "^1.11.0",
+		"@framer/farfetch.ui-framework": "^1.16.0",
+		"@framer/framer.default": "^1.5.0",
+		"@types/react-text-truncate": "^0.14.0",
+		"@types/react-truncate": "^2.3.3",
+		"react-clipboard.js": "^2.0.16",
+		"react-json-prettify": "^0.1.4",
+		"use-global-hook": "^0.1.12"
+	},
+	"name": "@framer/farfetch.ui-framework",
+	"version": "1.92.0"
+}

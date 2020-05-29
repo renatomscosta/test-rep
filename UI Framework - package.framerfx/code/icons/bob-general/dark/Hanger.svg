@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="24px" height="24px" viewBox="0 0 24 24" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <!-- Generator: Sketch 59.1 (86144) - https://sketch.com -->
+    <title>dark / Hanger</title>
+    <desc>Created with Sketch.</desc>
+    <defs>
+        <path d="M11,10.7333333 L11,10.215 C13.201998,9.69275021 14.6313074,7.56397551 14.2811481,5.32814718 C13.9309887,3.09231885 11.919292,1.5024498 9.66306156,1.67841568 C7.4068311,1.85438155 5.6659511,3.73691817 5.66666667,6 L7.66666667,6 C7.66666667,5.05625476 8.23516508,4.20543676 9.10707199,3.84428109 C9.9789789,3.48312542 10.9825872,3.68275552 11.6499158,4.35008418 C12.3172445,5.01741283 12.5168746,6.0210211 12.1557189,6.89292801 C11.7945632,7.76483492 10.9437452,8.33333333 10,8.33333333 L9,8.33333333 L9,10.7333333 L0,14.3333333 L0,18.3333333 L20,18.3333333 L20,14.3333333 L11,10.7333333 Z M18,16.3333333 L2,16.3333333 L2,15.6866667 L10,12.4866667 L18,15.6866667 L18,16.3333333 Z" id="path-1"></path>
+    </defs>
+    <g id="dark-/-Hanger" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <g id="Hanger" transform="translate(2.000000, 2.000000)">
+            <rect id="Rectangle-path" fill="#FFFFFF" fill-rule="nonzero" opacity="0" x="0" y="0" width="20" height="20"></rect>
+            <mask id="mask-2" fill="white">
+                <use xlink:href="#path-1"></use>
+            </mask>
+            <use id="Mask" fill="#222222" xlink:href="#path-1"></use>
+        </g>
+    </g>
+</svg>

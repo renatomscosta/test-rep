@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="24px" height="24px" viewBox="0 0 24 24" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <!-- Generator: Sketch 59.1 (86144) - https://sketch.com -->
+    <title>old / dark / CheckboxTick</title>
+    <desc>Created with Sketch.</desc>
+    <g id="old-/-dark-/-CheckboxTick" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <rect id="Rectangle" stroke="#222222" fill-rule="nonzero" x="2.5" y="2.5" width="19" height="19" rx="1"></rect>
+        <g id="General-/-Tick" transform="translate(5.000000, 7.000000)" fill="#222222" fill-rule="nonzero">
+            <polygon id="Path-3" points="4.25757839 7.80507464 1.47053042 5.20382987 0.333333333 6.42225531 4.25757839 10.084884 13.7573554 1.21842545 12.6201584 0"></polygon>
+        </g>
+    </g>
+</svg>

@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="24px" height="24px" viewBox="0 0 24 24" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <!-- Generator: Sketch 59.1 (86144) - https://sketch.com -->
+    <title>dark / Blocks</title>
+    <desc>Created with Sketch.</desc>
+    <defs>
+        <path d="M20,12 L20,0 L4,0 L4,10 L0,10 L0,20 L10,20 C10,17.790861 11.790861,16 14,16 C16.209139,16 18,17.790861 18,20 L20,20 C19.997845,17.6348839 18.6064816,15.4916961 16.4469951,14.5271254 C14.2875086,13.5625548 11.7628533,13.9565877 10,15.5333333 L10,12 L20,12 Z M6,2 L18,2 L18,10 L6,10 L6,2 Z M8,18 L2,18 L2,12 L8,12 L8,18 Z" id="path-1"></path>
+    </defs>
+    <g id="dark-/-Blocks" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <g id="Blocks" transform="translate(2.000000, 2.000000)">
+            <rect id="Rectangle-path" fill="#FFFFFF" fill-rule="nonzero" opacity="0" x="0" y="0" width="20" height="20"></rect>
+            <mask id="mask-2" fill="white">
+                <use xlink:href="#path-1"></use>
+            </mask>
+            <use id="Mask" fill="#222222" xlink:href="#path-1"></use>
+        </g>
+    </g>
+</svg>

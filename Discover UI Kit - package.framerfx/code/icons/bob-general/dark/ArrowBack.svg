@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="24px" height="24px" viewBox="0 0 24 24" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <!-- Generator: Sketch 59.1 (86144) - https://sketch.com -->
+    <title>dark / ArrowBack</title>
+    <desc>Created with Sketch.</desc>
+    <defs>
+        <path d="M12.5,18 C15.5375661,18 18,15.5375661 18,12.5 C18,9.46243388 15.5375661,7 12.5,7 L3.83333333,7 L7.415,10.585 L6,12 L0,6 L6,0 L7.415,1.415 L3.83333333,5 L12.5,5 C16.6421356,5 20,8.35786438 20,12.5 C20,16.6421356 16.6421356,20 12.5,20 L12.5,18 Z" id="path-1"></path>
+    </defs>
+    <g id="dark-/-ArrowBack" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <rect id="Rectangle-path" fill="#FFFFFF" fill-rule="nonzero" opacity="0" x="2" y="2" width="20" height="20"></rect>
+        <g id="ArrowBack" transform="translate(2.000000, 2.000000)">
+            <mask id="mask-2" fill="white">
+                <use xlink:href="#path-1"></use>
+            </mask>
+            <use id="Mask" fill="#222222" xlink:href="#path-1"></use>
+        </g>
+    </g>
+</svg>

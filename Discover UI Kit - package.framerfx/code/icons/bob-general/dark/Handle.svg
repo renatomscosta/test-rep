@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="24px" height="24px" viewBox="0 0 24 24" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <!-- Generator: Sketch 59.1 (86144) - https://sketch.com -->
+    <title>dark / Handle</title>
+    <desc>Created with Sketch.</desc>
+    <defs>
+        <path d="M9,14 L9,16 L7,16 L7,14 L9,14 Z M13,14 L13,16 L11,16 L11,14 L13,14 Z M9,9 L9,11 L7,11 L7,9 L9,9 Z M13,9 L13,11 L11,11 L11,9 L13,9 Z M13,4 L13,6 L11,6 L11,4 L13,4 Z M9,4 L9,6 L7,6 L7,4 L9,4 Z" id="path-1"></path>
+    </defs>
+    <g id="dark-/-Handle" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <g id="Handle" transform="translate(2.000000, 2.000000)">
+            <rect id="Rectangle-path" fill="#FFFFFF" fill-rule="nonzero" opacity="0" x="0" y="0" width="20" height="20"></rect>
+            <mask id="mask-2" fill="white">
+                <use xlink:href="#path-1"></use>
+            </mask>
+            <use id="Mask" fill="#222222" xlink:href="#path-1"></use>
+        </g>
+    </g>
+</svg>

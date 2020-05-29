@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="24px" height="24px" viewBox="0 0 24 24" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <!-- Generator: Sketch 59.1 (86144) - https://sketch.com -->
+    <title>dark / CrossSmall</title>
+    <desc>Created with Sketch.</desc>
+    <defs>
+        <polygon id="path-1" points="11.4133333 10 15.8786797 5.53465368 14.4653463 4.12132034 10 8.58666667 5.53465368 4.12132034 4.12132034 5.53465368 8.58666667 10 4.12132034 14.4653463 5.53465368 15.8786797 10 11.4133333 14.4653463 15.8786797 15.8786797 14.4653463"></polygon>
+    </defs>
+    <g id="dark-/-CrossSmall" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <g id="Cross" transform="translate(2.000000, 2.000000)">
+            <rect id="Rectangle-path" fill="#FFFFFF" fill-rule="nonzero" opacity="0" x="0" y="0" width="20" height="20"></rect>
+            <mask id="mask-2" fill="white">
+                <use xlink:href="#path-1"></use>
+            </mask>
+            <use id="Mask" fill="#222222" xlink:href="#path-1"></use>
+        </g>
+    </g>
+</svg>

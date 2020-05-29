@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="24px" height="24px" viewBox="0 0 24 24" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <!-- Generator: Sketch 59.1 (86144) - https://sketch.com -->
+    <title>dark / DotNav</title>
+    <desc>Created with Sketch.</desc>
+    <defs>
+        <path d="M10,15.3333333 C10.7363797,15.3333333 11.3333333,15.930287 11.3333333,16.6666667 C11.3333333,17.4030463 10.7363797,18 10,18 C9.26362033,18 8.66666667,17.4030463 8.66666667,16.6666667 C8.66666667,15.930287 9.26362033,15.3333333 10,15.3333333 Z M10,8.66666667 C10.7363797,8.66666667 11.3333333,9.26362033 11.3333333,10 C11.3333333,10.7363797 10.7363797,11.3333333 10,11.3333333 C9.26362033,11.3333333 8.66666667,10.7363797 8.66666667,10 C8.66666667,9.26362033 9.26362033,8.66666667 10,8.66666667 Z M10,2 C10.7363797,2 11.3333333,2.59695367 11.3333333,3.33333333 C11.3333333,4.069713 10.7363797,4.66666667 10,4.66666667 C9.26362033,4.66666667 8.66666667,4.069713 8.66666667,3.33333333 C8.66666667,2.59695367 9.26362033,2 10,2 Z" id="path-1"></path>
+    </defs>
+    <g id="dark-/-DotNav" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <g id="DotNav" transform="translate(2.000000, 2.000000)">
+            <rect id="Rectangle-path" fill="#FFFFFF" fill-rule="nonzero" opacity="0" x="0" y="0" width="20" height="20"></rect>
+            <mask id="mask-2" fill="white">
+                <use xlink:href="#path-1"></use>
+            </mask>
+            <use id="Mask" fill="#222222" xlink:href="#path-1"></use>
+        </g>
+    </g>
+</svg>

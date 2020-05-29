@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="24px" height="24px" viewBox="0 0 24 24" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <!-- Generator: Sketch 59.1 (86144) - https://sketch.com -->
+    <title>light / BoxProgress</title>
+    <desc>Created with Sketch.</desc>
+    <defs>
+        <path d="M8,0 L0,4 L0,10 L8,14 L16,10 L16,4 L8,0 Z M8,2.23666667 L12.8616667,4.66666667 L8,7.09666667 L3.13833333,4.66666667 L8,2.23666667 Z M16,14 L20,17 L16,20 L16,14 Z M13,16 C13.5522847,16 14,16.4477153 14,17 C14,17.5522847 13.5522847,18 13,18 C12.4477153,18 12,17.5522847 12,17 C12,16.4477153 12.4477153,16 13,16 Z M9,16 C9.55228475,16 10,16.4477153 10,17 C10,17.5522847 9.55228475,18 9,18 C8.44771525,18 8,17.5522847 8,17 C8,16.4477153 8.44771525,16 9,16 Z M5,16 C5.55228475,16 6,16.4477153 6,17 C6,17.5522847 5.55228475,18 5,18 C4.44771525,18 4,17.5522847 4,17 C4,16.4477153 4.44771525,16 5,16 Z M14,6.33333333 L14,8.76333333 L8,11.7633333 L2,8.76333333 L2,6.33333333 L8,9.33333333 L14,6.33333333 Z" id="path-1"></path>
+    </defs>
+    <g id="light-/-BoxProgress" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <g id="BoxProgress" transform="translate(2.000000, 2.000000)">
+            <rect id="Rectangle-path" fill="#FFFFFF" fill-rule="nonzero" opacity="0" x="0" y="0" width="20" height="20"></rect>
+            <mask id="mask-2" fill="white">
+                <use xlink:href="#path-1"></use>
+            </mask>
+            <use id="Mask" fill="#FFFFFF" xlink:href="#path-1"></use>
+        </g>
+    </g>
+</svg>

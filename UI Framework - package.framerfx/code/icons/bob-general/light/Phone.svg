@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="24px" height="24px" viewBox="0 0 24 24" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <!-- Generator: Sketch 59.1 (86144) - https://sketch.com -->
+    <title>light / Phone</title>
+    <desc>Created with Sketch.</desc>
+    <defs>
+        <path d="M12,12 L8,8 L10,6 L4,0 L0,4 C0.375,7.34833333 2.37666667,10.9466667 5.715,14.285 C9.05333333,17.6233333 12.6516667,19.625 16,20 L20,16 L14,10 L12,12 Z M15.31,17.8616667 C12.6783333,17.295 9.81,15.5516667 7.13,12.87 C4.45,10.1883333 2.705,7.32166667 2.13833333,4.69 L4,2.83333333 L7.16666667,6 L5.16666667,8 L12,14.8333333 L14,12.8333333 L17.1666667,16 L15.31,17.8616667 Z" id="path-1"></path>
+    </defs>
+    <g id="light-/-Phone" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <g id="Phone" transform="translate(2.000000, 2.000000)">
+            <rect id="Rectangle-path" fill="#FFFFFF" fill-rule="nonzero" opacity="0" x="0" y="0" width="20" height="20"></rect>
+            <mask id="mask-2" fill="white">
+                <use xlink:href="#path-1"></use>
+            </mask>
+            <use id="Mask" fill="#FFFFFF" xlink:href="#path-1"></use>
+        </g>
+    </g>
+</svg>

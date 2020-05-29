@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="24px" height="24px" viewBox="0 0 24 24" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <!-- Generator: Sketch 59.1 (86144) - https://sketch.com -->
+    <title>dark / BurgerMagnifier</title>
+    <desc>Created with Sketch.</desc>
+    <defs>
+        <path d="M9.44947853,9.47175658 C11.2614485,7.65336122 14.1560549,7.5025676 16.1471613,9.12284289 C18.1382678,10.7431182 18.5788779,13.6079651 17.1666667,15.7516667 L17.1666667,15.7516667 L20,18.585 L18.59,20 L15.7566667,17.1666667 C13.6179775,18.5864573 10.7515888,18.155991 9.12427556,16.1706325 C7.49696228,14.1852741 7.63750859,11.2901519 9.44947853,9.47175658 Z M6.29166667,15 C6.5043573,15.7139638 6.83015995,16.3892025 7.25666667,17 L7.25666667,17 L0,17 L0,15 Z M13,10 C11.3431458,10 10,11.3431458 10,13 C10,14.6568542 11.3431458,16 13,16 C14.6568542,16 16,14.6568542 16,13 C16,11.3431458 14.6568542,10 13,10 Z M7.25666667,9 C6.83018484,9.61081211 6.50438419,10.2860466 6.29166667,11 L6.29166667,11 L0,11 L0,9 Z M20,3 L20,5 L0,5 L0,3 L20,3 Z" id="path-1"></path>
+    </defs>
+    <g id="dark-/-BurgerMagnifier" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <g id="BurgerMagnifier" transform="translate(2.000000, 2.000000)">
+            <rect id="Rectangle-path" fill="#FFFFFF" fill-rule="nonzero" opacity="0" x="0" y="0" width="20" height="20"></rect>
+            <mask id="mask-2" fill="white">
+                <use xlink:href="#path-1"></use>
+            </mask>
+            <use id="Mask" fill="#222222" xlink:href="#path-1"></use>
+        </g>
+    </g>
+</svg>

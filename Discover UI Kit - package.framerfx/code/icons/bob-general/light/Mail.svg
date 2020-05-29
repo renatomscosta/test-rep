@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="24px" height="24px" viewBox="0 0 24 24" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <!-- Generator: Sketch 59.1 (86144) - https://sketch.com -->
+    <title>light / Mail</title>
+    <desc>Created with Sketch.</desc>
+    <defs>
+        <path d="M0,2 L0,18 L20,18 L20,2 L0,2 Z M16.6516667,4 L10,9.42 L3.34833333,4 L16.6516667,4 Z M2,16 L2,5.48166667 L10,12 L18,5.48166667 L18,16 L2,16 Z" id="path-1"></path>
+    </defs>
+    <g id="light-/-Mail" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <g id="Mail" transform="translate(2.000000, 2.000000)">
+            <rect id="Rectangle-path" fill="#FFFFFF" fill-rule="nonzero" opacity="0" x="0" y="0" width="20" height="20"></rect>
+            <mask id="mask-2" fill="white">
+                <use xlink:href="#path-1"></use>
+            </mask>
+            <use id="Mask" fill="#FFFFFF" xlink:href="#path-1"></use>
+        </g>
+    </g>
+</svg>
